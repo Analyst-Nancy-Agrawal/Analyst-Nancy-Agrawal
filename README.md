@@ -1,4 +1,4 @@
-![logo](https://github.com/Analyst-Nancy-Agrawal/Analyst-Nancy-Agrawal/blob/main/banner%20github.png)
+
 <h1 align="center">Hi 👋, I'm Nancy Agrawal</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
